@@ -3,5 +3,6 @@
     "thumbnail": ["fds","fdsa","dsf","dfd"],
     "url": "",
     "version": "1.0",
-    "bul": true
+    "bul": 0,
+    "downloadUrl":"https://raw.githubusercontent.com/FYB-web/FYB/refs/heads/main/json/main.json"
 }
